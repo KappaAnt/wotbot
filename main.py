@@ -22,7 +22,7 @@ def Command():
         
     @client.command(aliases=["ARTY","Arty","tank"])
     async def arty(ctx):
-        await ctx.send('Enter the your WOT username: ')
+        await ctx.send('Enter your WOT username: ')
         msg = await client.wait_for('message', check=lambda msg: msg.author == ctx.author)
         username = str(msg.content)
         
