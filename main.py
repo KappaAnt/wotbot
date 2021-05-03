@@ -40,8 +40,7 @@ def Command():
 
 
               
-    #client.run(os.environ["DISCORD_TOKEN"])
-    client.run("ODM4MTkzMzc4NzYzMzQxODQ0.YI3iag.BqnGJ9y8-5az9fZ2rgFCtr48IyU")
+    client.run(os.environ["DISCORD_TOKEN"])
     
 def main():
     #nameID = WotFact("Kappa_Ant")
