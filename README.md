@@ -4,6 +4,13 @@ https://developers.wargaming.net/reference/all/wot/account/info/?application_id=
 
 (and discord bot API)
 
-Summary of Program:
+Summary of Program: Asks user for accountname and fetches the data of artillary shells recieved for that account.
 
-Shows wot info
+Commands:
+
+.arty - fetching name and data
+
+* ![.arty](wotarty.png)
+
+Note: This bot runs on Heroku for free and will shut off every other month. 
+      *Token protected using environment variables on Heroku
