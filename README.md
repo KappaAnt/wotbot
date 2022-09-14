@@ -4,7 +4,7 @@ https://developers.wargaming.net/reference/all/wot/account/info/?application_id=
 
 (and discord bot API)
 
-Summary of Program: Asks user for accountname and fetches the data of artillary shells recieved for that account.
+Summary of Program: Asks user for account name and fetches the data of artillary shells recieved for that account.
 
 Commands:
 
